@@ -1,0 +1,442 @@
+1531792007094	geckodriver	INFO	geckodriver 0.18.0
+1531792007104	geckodriver	INFO	Listening on 127.0.0.1:60258
+1531792009176	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531792014858	Marionette	INFO	Listening on port 60266
+1531792015234	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531792016976	geckodriver	INFO	geckodriver 0.18.0
+1531792016987	geckodriver	INFO	Listening on 127.0.0.1:60294
+1531792019061	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531792023495	Marionette	INFO	Listening on port 60300
+1531792023529	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531792186671	geckodriver	INFO	geckodriver 0.18.0
+1531792186685	geckodriver	INFO	Listening on 127.0.0.1:60339
+1531792188758	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531792193757	Marionette	INFO	Listening on port 60345
+1531792194445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531792196006	geckodriver	INFO	geckodriver 0.18.0
+1531792196015	geckodriver	INFO	Listening on 127.0.0.1:60376
+1531792198094	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531792202368	Marionette	INFO	Listening on port 60382
+1531792202693	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531792384474	geckodriver	INFO	geckodriver 0.18.0
+1531792384484	geckodriver	INFO	Listening on 127.0.0.1:60426
+1531792386583	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531792391103	Marionette	INFO	Listening on port 60432
+1531792392150	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531792412197	geckodriver	INFO	geckodriver 0.18.0
+1531792412209	geckodriver	INFO	Listening on 127.0.0.1:60467
+1531792414316	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531792418220	Marionette	INFO	Listening on port 60473
+1531792418496	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531792675239	geckodriver	INFO	geckodriver 0.18.0
+1531792675249	geckodriver	INFO	Listening on 127.0.0.1:60556
+1531792677328	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531792682248	Marionette	INFO	Listening on port 60562
+1531792682910	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531792788908	geckodriver	INFO	geckodriver 0.18.0
+1531792788928	geckodriver	INFO	Listening on 127.0.0.1:60595
+1531792790992	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531792794910	Marionette	INFO	Listening on port 60601
+1531792795348	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531792975145	geckodriver	INFO	geckodriver 0.18.0
+1531792975161	geckodriver	INFO	Listening on 127.0.0.1:60729
+1531792977340	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531792981644	Marionette	INFO	Listening on port 60735
+1531792981801	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531793241267	geckodriver	INFO	geckodriver 0.18.0
+1531793241277	geckodriver	INFO	Listening on 127.0.0.1:60829
+1531793243380	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531793248014	Marionette	INFO	Listening on port 60835
+1531793249093	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531793918637	geckodriver	INFO	geckodriver 0.18.0
+1531793918650	geckodriver	INFO	Listening on 127.0.0.1:61178
+1531793920742	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531793924515	Marionette	INFO	Listening on port 61186
+1531793924858	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531793972389	geckodriver	INFO	geckodriver 0.18.0
+1531793972399	geckodriver	INFO	Listening on 127.0.0.1:61239
+1531793974504	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531793978608	Marionette	INFO	Listening on port 61245
+1531793979025	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531794710260	geckodriver	INFO	geckodriver 0.18.0
+1531794710267	geckodriver	INFO	Listening on 127.0.0.1:61377
+1531794712346	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531794716059	Marionette	INFO	Listening on port 61383
+1531794716440	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 2916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 268: TypeError: this._builder is undefined
+[Parent 10792, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531794885300	geckodriver	INFO	geckodriver 0.18.0
+1531794885308	geckodriver	INFO	Listening on 127.0.0.1:61449
+1531794887380	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531794890090	Marionette	INFO	Listening on port 61455
+1531794890777	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531794966548	geckodriver	INFO	geckodriver 0.18.0
+1531794966557	geckodriver	INFO	Listening on 127.0.0.1:61508
+1531794968629	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531794971456	Marionette	INFO	Listening on port 61514
+1531794972195	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 1464, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11960, Chrome_ChildThread] WARNING: pi[Parent 1464, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 1504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Data\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 11408, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 14548, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531795112615	geckodriver	INFO	geckodriver 0.18.0
+1531795112624	geckodriver	INFO	Listening on 127.0.0.1:61646
+1531795114693	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531795118098	Marionette	INFO	Listening on port 61652
+1531795118268	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531795523662	geckodriver	INFO	geckodriver 0.18.0
+1531795523674	geckodriver	INFO	Listening on 127.0.0.1:61760
+1531795525759	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531795531185	Marionette	INFO	Listening on port 61768
+1531795531720	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531795666508	geckodriver	INFO	geckodriver 0.18.0
+1531795666516	geckodriver	INFO	Listening on 127.0.0.1:61854
+1531795668585	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531795671995	Marionette	INFO	Listening on port 61860
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531795672129	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531795974298	geckodriver	INFO	geckodriver 0.18.0
+1531795974311	geckodriver	INFO	Listening on 127.0.0.1:61969
+1531795976533	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531795995851	Marionette	INFO	Listening on port 61975
+[Child 12068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1531795996446	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531796110005	geckodriver	INFO	geckodriver 0.18.0
+1531796110016	geckodriver	INFO	Listening on 127.0.0.1:62045
+1531796112030	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531796123844	Marionette	INFO	Listening on port 62052
+1531796124032	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 9952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531796146481	geckodriver	INFO	geckodriver 0.18.0
+1531796146494	geckodriver	INFO	Listening on 127.0.0.1:62115
+1531796148660	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531796156082	Marionette	INFO	Listening on port 62122
+1531796157489	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://demo.cs-cart.com
+[Parent 10468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531796373877	geckodriver	INFO	geckodriver 0.18.0
+1531796373893	geckodriver	INFO	Listening on 127.0.0.1:62192
+1531796375936	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531796383794	Marionette	INFO	Listening on port 62198
+1531796384711	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531796661847	geckodriver	INFO	geckodriver 0.18.0
+1531796661857	geckodriver	INFO	Listening on 127.0.0.1:62278
+1531796663515	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531796676985	Marionette	INFO	Listening on port 62286
+1531796677754	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 10236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer reUnable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531796699469	Marionette	INFO	Listening on port 62352
+1531796700363	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 9672, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531797491304	geckodriver	INFO	geckodriver 0.18.0
+1531797491313	geckodriver	INFO	Listening on 127.0.0.1:62476
+1531797493313	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531797498008	Marionette	INFO	Listening on port 62484
+1531797498953	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 4572, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ad VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531797527970	Marionette	INFO	Listening on port 62546
+1531797528153	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 16360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 34
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531797554929	geckodriver	INFO	geckodriver 0.18.0
+1531797554942	geckodriver	INFO	Listening on 127.0.0.1:62604
+1531797557042	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531797561264	Marionette	INFO	Listening on port 62610
+1531797561518	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531797721514	geckodriver	INFO	geckodriver 0.18.0
+1531797721524	geckodriver	INFO	Listening on 127.0.0.1:62673
+1531797723615	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531797727291	Marionette	INFO	Listening on port 62679
+1531797727651	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531797729554	geckodriver	INFO	geckodriver 0.18.0
+1531797729565	geckodriver	INFO	Listening on 127.0.0.1:62705
+1531797731638	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531797735736	Marionette	INFO	Listening on port 62711
+1531797736085	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531797811020	geckodriver	INFO	geckodriver 0.18.0
+1531797811033	geckodriver	INFO	Listening on 127.0.0.1:62743
+1531797813133	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531797816893	Marionette	INFO	Listening on port 62749
+1531797817108	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 11704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531798803490	geckodriver	INFO	geckodriver 0.18.0
+1531798803497	geckodriver	INFO	Listening on 127.0.0.1:62924
+1531798805558	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531798813000	Marionette	INFO	Listening on port 62930
+1531798813075	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531798859824	geckodriver	INFO	geckodriver 0.18.0
+1531798859831	geckodriver	INFO	Listening on 127.0.0.1:62992
+1531798861913	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\CrazyDog\AppData\Local\openvr\openvrpaths.vrpath
+1531798868428	Marionette	INFO	Listening on port 62998
+1531798869663	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 1508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 7
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

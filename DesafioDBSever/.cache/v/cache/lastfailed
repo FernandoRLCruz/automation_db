@@ -1,0 +1,6 @@
+{
+  "testPages.py::TestPages": true,
+  "testPages.py::TestPages::test_click_image": true,
+  "testPages.py::TestPages::test_page_load": true,
+  "testPages.py::TestPages::test_search_item": true
+}
